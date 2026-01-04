@@ -30,24 +30,6 @@ Components:
 - AI Service: Amazon Bedrock Nova Lite for weather analysis
 - Data Sources: Open-Meteo API for weather data, Geocoding API for coordinates
 
----
-
-Project Structure
-
-aws-strands-agent/
-├── weather-forecast.py      (Lambda function handler)
-├── requirements.txt         (Python dependencies)
-├── deploy.sh               (Deployment script)
-├── frontend/
-│   ├── index.html          (Main HTML)
-│   ├── styles.css          (Responsive CSS)
-│   └── app.js              (Frontend JavaScript)
-├── README.md               (This file)
-└── weather.md              (Code explanation)
-
----
-
-Getting Started
 
 Prerequisites
 
